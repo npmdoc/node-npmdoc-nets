@@ -1,9 +1,14 @@
-# api documentation for  [nets (v3.2.0)](https://github.com/maxogden/nets)  [![npm package](https://img.shields.io/npm/v/npmdoc-nets.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nets) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nets.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nets)
+# npmdoc-nets
+
+#### api documentation for  [nets (v3.2.0)](https://github.com/maxogden/nets)  [![npm package](https://img.shields.io/npm/v/npmdoc-nets.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nets) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nets.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nets)
+
 #### nothin but nets. http client that works in node and browsers
 
-[![NPM](https://nodei.co/npm/nets.png?downloads=true)](https://www.npmjs.com/package/nets)
+[![NPM](https://nodei.co/npm/nets.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nets)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-nets/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-nets_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nets/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-nets/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-nets/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-nets/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nets/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-nets/build/screenCapture.npmPackageListing.svg)
 
@@ -45,17 +50,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "maxogden",
-            "email": "max@maxogden.com"
+            "name": "maxogden"
         },
         {
-            "name": "zeke",
-            "email": "zeke@npmjs.com"
+            "name": "zeke"
         }
     ],
     "name": "nets",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/maxogden/nets.git"
@@ -81,16 +83,6 @@
     "version": "3.2.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module nets](#apidoc.module.nets)
-
-
-
-# <a name="apidoc.module.nets"></a>[module nets](#apidoc.module.nets)
 
 
 

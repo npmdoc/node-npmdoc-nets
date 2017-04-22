@@ -60,7 +60,7 @@
 <tspan x="10" y="922">  │ ├── tunnel-agent@0.6.0 </tspan>
 <tspan x="10" y="938">  │ └── uuid@3.0.1 </tspan>
 <tspan x="10" y="954">  └─┬ xhr@2.4.0 </tspan>
-<tspan x="10" y="970">    ├─┬ global@4.3.1 </tspan>
+<tspan x="10" y="970">    ├─┬ global@4.3.2 </tspan>
 <tspan x="10" y="986">    │ ├─┬ min-document@2.19.0 </tspan>
 <tspan x="10" y="1002">    │ │ └── dom-walk@0.1.1 </tspan>
 <tspan x="10" y="1018">    │ └── process@0.5.2 </tspan>
